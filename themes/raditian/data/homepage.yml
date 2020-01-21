@@ -1,9 +1,9 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
-  subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  title: "Hello, I’m Abdelhak."
+  subtitle: "System Administrator"
+  description: "I work at <a target='_blank' href='https://www.alakhdarbank.ma/'>AL AKHDAR BANK</a>, an Islamic Bank in Morocco. I have good experience in managing Windows and Linux servers, Virtualization, Storage and Backup solutions and More... You get the idea where theme name comes from. Keep cool, stay in touch. You can send me a message to <a target='_blank' href='mailto:abdelhakbouhoum@gmail.com'>My email @</a>."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -13,32 +13,32 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "#contact"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/in/abdelhakbouhoum/"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/abdelhakbouhoum"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
+      URL: "https://twitter.com/abdelhakbouhoum"
 
     - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
+      URL: "https://dribbble.com/abdelhakbouhoum"
 
     - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+      URL: "https://www.behance.net/abdelhakbouhoum"
 
     - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+      URL: "https://www.youtube.com/channel/abdelhakbouhoum"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://www.instagram.com/abdelhakbouhoum"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+      URL: "https://www.facebook.com/abdelhakbouhoum"
 
     - icon: "codepen"
       URL: "#"
